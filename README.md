@@ -1,2 +1,2 @@
-# My name is Ishan Vadalia
+# Ishan Vadalia
 studying at LNMIIT
